@@ -1,6 +1,9 @@
 // 1. button event handler setup
 // 2. get input value
 // error handling for string value
+
+// https://deckofcardsapi.com/api/deck/new/draw/?count=10
+// https://api.thedogapi.com/v1/breeds
 const main = document.getElementById("main");
 const searchButton = () =>{
     const input = document.getElementById("input-value");
